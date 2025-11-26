@@ -83,6 +83,3 @@ You can find:
 BBA Data Analytics Student
 Learning SQL for data analysis
 
----
-
-Feel free to explore the code and give suggestions!
